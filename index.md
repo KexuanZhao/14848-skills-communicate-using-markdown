@@ -8,3 +8,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [ ] Finish HW1
+- [ ] start HW2
+- [ ] take a break
